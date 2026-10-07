@@ -27,6 +27,6 @@ Power BI, DAX, Power Query, Data Modeling
 - Benefit is 2.1x of Cost
 - North America leads in benefit
 
-🔗 Live Dashboard View Live: https://excited-topaz-5c6.notion.site/Fatima-Batool-Portfolio-3e6c68d81f31805c8c78d24d1af088f0?source=copy_link
+🔗 Live Dashboard View Live: https://excited-topaz-5c6.notion.site/Project-Management-KPI-Dashboard-99-Projects-3f2c68d81f318018b058e2e43b5fd28f?source=copy_link
 
 👤 Author Fatima Batool - Fresher\ Actively seeking opportunities. Passionate about learning and applying data analytics skills. LinkedIn: www.linkedin.com/in/fatima-batool-0a49151aa
